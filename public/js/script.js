@@ -1,0 +1,1 @@
+alert("Rek cerita naon? huum ");
